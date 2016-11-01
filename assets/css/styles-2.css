@@ -264,6 +264,9 @@ a.btn:hover {
 .page-nav-wrapper .page-nav li a:focus {
   background: none;
 }
+.page-nav-wrapper:not(.fixed) .page-nav li a:not(.scrollto){
+	display:none;
+}
 .page-nav-wrapper .page-nav li:last-child {
   margin-right: 0;
 }
