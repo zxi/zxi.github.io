@@ -1,5 +1,9 @@
 $(document).ready(function() {
 
+    if( window.location.hash == "#thankyou") {
+        $('.thankyou.section-title').text("Thank you for your time! ");
+        $('.thankyou.message').text("It was really nice talking to you. This page was created to explain why I think I have");
+    }
     /* ======= Scrollspy ======= */
    $('body').scrollspy({ target: '#page-nav-wrapper', offset: 100});
     
