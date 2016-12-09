@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     if( window.location.hash == "#thankyou") {
         $('.thankyou.section-title').text("Thank you for your time! ");
-        $('.thankyou.mobile').text("If you are visiting this page on a mobile device, please scroll top to see the complete page. ");
+        $('.thankyou.mobile').text("If you are viewing this page on a mobile device, please scroll top to see the complete page. ");
         $('.thankyou.message').text("It was really nice talking to you. This page was created to explain why I think I have");
     }
     /* ======= Scrollspy ======= */
