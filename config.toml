@@ -29,51 +29,49 @@ staticDir = "static"
       location = "Greater New York"
 
       [[params.contact.list]]
-        icon = "fas fa-phone-square"
-        url = "tel:#"
-        text = "+1.000.000.0000"
-      [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
         text = "career # zhangxi.co"
       [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "#"
-        text = "www.zhangxi.co"
+        icon = "fas fa-blog"
+        url = "https://blog.zhangxi.co/"
+        text = "blog.zhangxi.co"
+      [[params.contact.list]]
+        icon = "fas fa-file-alt"
+        url = "/assets/XiZhang.pdf"
+        text = "View in PDF"
 
     [params.sidebar]
-      enable = true
+      enable = false
 
     [params.skills]
-      enable = true
+      enable = false
 
       [[params.skills.list]]
-        title = "Technical"
+      title = "Management"
           [[params.skills.list.items]]
-          details = "JavaScript/Angular/React/Vue"
-          [[params.skills.list.items]]
-          details = "Python/Ruby/PHP"
-          [[params.skills.list.items]]
-          details = "Node.js/ASP.NET"
-          [[params.skills.list.items]]
-          details = "PostgreSQL/MySQL"
-          [[params.skills.list.items]]
-          details = "Object-oriented design"
-          [[params.skills.list.items]]
-          details = "Design and implement database structures"
-          [[params.skills.list.items]]
-          details = "Lead and deliver complex software systems"
-
-          [[params.skills.list]]
-          title = "Professional"
-          [[params.skills.list.items]]
-          details = "Effective communication"
+          details = "Agile Methodologies"
           [[params.skills.list.items]]
           details = "Team player"
           [[params.skills.list.items]]
           details = "Strong problem solver"
           [[params.skills.list.items]]
-          details = "Good time management"
+          details = "Relationship Management"
+
+      [[params.skills.list]]
+      title = "Technical"
+          [[params.skills.list.items]]
+          details = "Well-Architected Framework"
+          [[params.skills.list.items]]
+          details = "Micro-Services Architecture / Serveless Architecture"
+          [[params.skills.list.items]]
+          details = "JavaScript / React / Node.JS"
+          [[params.skills.list.items]]
+          details = "Core Java / Enterprise Architecture"
+          [[params.skills.list.items]]
+          details = "Design and implement database structures"
+          [[params.skills.list.items]]
+          details = "Lead and deliver complex software systems"
 
       [params.education]
         enable = true
@@ -122,8 +120,8 @@ staticDir = "static"
           name = "Travelling"
 
       [params.summary]
-          enable = true
-          text = "As VP of Engineering, Xi Zhang is responsible for the technical leadership, product development, engineering efficiencies, and hosting operations of Inpensa's state-of-the-art SaaS-based Business Case Management solution. "
+          enable = false
+          text = "Hands-on software architect and engineering leader with a strong academic background in both computer science and mathematics, with a proven track record of building and leading engineering teams in both established and startup environments and delivering quality products within a limited time frame.  Passionate and results-oriented problem solver with strong enthusiasm for programming and technology. "
 
       [params.experience]
           enable = true
@@ -132,7 +130,7 @@ staticDir = "static"
           title = "V.P. of Engineering"
           dates = "Dec 2018 - Present"
           company = "Inpensa Inc."
-          details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+          details = "As VP of Engineering, responsible for the technical leadership, product development, engineering efficiencies, and hosting operations of Inpensa's state-of-the-art SaaS-based Business Case Management solution. "
           [[params.experience.list.items]]
           details = "Launched the OnDemand platform with Predictable Analytics in 3 months, bringing enterprise customers domain knowledge to SMB customers, which attracted market attention, and boosted sales pipeline by 50%. "
           [[params.experience.list.items]]
@@ -150,7 +148,7 @@ staticDir = "static"
           title = "Architect / Director of R&D"
           dates = "Mar. 2012 - Mar. 2018"
           company = "Inpensa Inc."
-          details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+          details = ""
           [[params.experience.list.items]]
           details = "Architected the innovative 3-tier distributed platform with configuration-driven taxonomy and workflow framework, enabling entirely different appearances and workﬂows on the same codebase yet configurable by non-technical analysts."
           [[params.experience.list.items]]
@@ -196,18 +194,14 @@ staticDir = "static"
           tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
       [params.information]
-          enable = false
+          enable = true
 
           [[params.information.list]]
-          title = "Papers"
+          title = "Education"
           [[params.information.list.items]]
-          details = "2006 · A New Method for Spatial Feature Extraction and Classification of Remote Sensing Image"
+          details = "Computer Science, M.Sc · University of San Francisco · San Francisco, CA"
           [[params.information.list.items]]
-          details = "2005 · Feature Extraction and Classification with Wavelet Transform and Support Vector Machines"
-          [[params.information.list.items]]
-          details = "2005 · A New Method for Multi-Source Remote Sensing Image Fusion"
-          [[params.information.list.items]]
-          details = "2006 · The Construct and Implementation of Complex Document/View System Based on .NET"
+          details = "Mathematics and Applied Mathematics, B.Sc · Peking University · Beijing, China"
 
       [params.social]
           enable = true

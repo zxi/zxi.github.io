@@ -18,9 +18,8 @@
 
                 {{ partial "header.html" . }}
 
-                <hr>
-
                 {{ if .Site.Params.summary.enable }}
+                <hr>
                 {{ partial "summary.html" . }}
                 {{ end }}
 
