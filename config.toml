@@ -4,6 +4,8 @@ title = "Xi Zhang"
 #theme = "awesome-identity"
 #theme = "hugo-devresume-theme"
 theme = "deepspace-xi"
+publishDir = "docs"
+staticDir = "static"
 
 ## Footer Configurations
 [params.footer]
