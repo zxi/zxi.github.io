@@ -1,0 +1,57 @@
+BasicInfo:
+  FirstName: (Alan)
+  LastName: Xi Zhang
+
+Profile: |
+          <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+            <ul class="list-unstyled mb-0">
+              <li class="mb-2">
+                <svg class="svg-inline--fa fa-envelope-square fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope-square" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M400 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V80c0-26.51-21.49-48-48-48zM178.117 262.104C87.429 196.287 88.353 196.121 64 177.167V152c0-13.255 10.745-24 24-24h272c13.255 0 24 10.745 24 24v25.167c-24.371 18.969-23.434 19.124-114.117 84.938-10.5 7.655-31.392 26.12-45.883 25.894-14.503.218-35.367-18.227-45.883-25.895zM384 217.775V360c0 13.255-10.745 24-24 24H88c-13.255 0-24-10.745-24-24V217.775c13.958 10.794 33.329 25.236 95.303 70.214 14.162 10.341 37.975 32.145 64.694 32.01 26.887.134 51.037-22.041 64.72-32.025 61.958-44.965 81.325-59.406 95.283-70.199z"></path></svg><!-- <i class="fas fa-envelope-square fa-fw fa-lg mr-2"></i> --><a class="resume-link" href="mailto:#">xi.zhang.career # gmail</a></li>
+              <li class="mb-2">
+                <svg class="svg-inline--fa fa-link fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="link-solid" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg><!-- <i class="fas fa-blog fa-fw fa-lg mr-2"></i> --><a class="resume-link" href="https://www.zhangxi.co/">www.zhangxi.co</a></li>
+              <li class="mb-2 screen">
+                <svg class="svg-inline--fa fa-file-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="file-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm64 236c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-64c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-72v8c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12zm96-114.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"></path></svg><!-- <i class="fas fa-file-alt fa-fw fa-lg mr-2"></i> --><span class="screen phone"><a class="resume-link" href="/assets/XiZhang.pdf">View in PDF</a><span></li>
+              <li class="mb-0">
+                <svg class="svg-inline--fa fa-map-marker-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg><!-- <i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i> -->Greater New York</li>
+            </ul>
+          </div>
+
+Experience:
+  - Employer: Inpensa Inc.
+    Place: Edison, NJ
+    Positions:
+      - Title: V.P. of Engineering
+        Date: 2018 - 2021
+        Details:
+          - Launched the OnDemand platform with Predictable Analytics in 3 months, bringing enterprise customers domain knowledge to SMB customers, which attracted market attention, and boosted sales pipeline by 50%.
+          - Drove the company agile methodology evolution, adopting cloud-based CI/CD pipeline in a quarter, increased productivity by 35%, and reduced cycle time by 50% to two weeks.
+          - Incorporated the Well-Architected Framework into the cloud operation process, archiving a 35% reduction in SaaS operating costs with 10% overall performance improvement.
+          - Established and led a Security Work Group and achieved 100% security compliance for customers from various industries, including the heavily regulated Banking industry.
+          - Successfully delivered end-to-end solutions for 10+ large customers across major industries, involving crossfunction business patterners and integrating with various enterprise systems.
+          - Worked closely with other leadership team members to lead new product line developments and new market segment expansion, which significantly increased the company’s valuation.
+
+      - Title: Architect / Director of R&D
+        Date: 2012 - 2018
+        Details:
+          - Architected the innovative 3-tier distributed platform with configuration-driven taxonomy and workflow framework, enabling entirely different appearances and workflows on the same codebase yet configurable by non-technical analysts.
+          - Hired 30+ resources, and wove them into teams, empowered them to deliver high-quality products within a limited time frame.
+          - Led the transition of the service tier to micro-services and server-less architecture, increased throughput by 60%, enabling monthly product release cycles.
+          - Demonstrated technical flexibility during pre-sale client engagement by implementing a critical feature to meet business needs within 24 hours, resulting in signing the first deal with a Fortune 100 company.
+          - Successfully launched five SaaS products in three years, made sales to five Fortune 500 enterprise customers, and attracting dozens of potential clients.
+
+  - Employer: Cisco Systems
+    Place: San Jose, CA
+    Positions:
+      - Title: Software Engineer / Tech Lead
+        Date: 2009 - 2011
+        Details:
+          - Led the design and implementation of the search based BI Services powered by a SOLR cluster, enabling enterprise customers to filter and search through historical data and generate real-time visualization reports based on result sets.
+          - As a pioneer in implementing Big Data for Enterprise BI Platform, scaled one of the earliest SOLAR clusters in Silicon Valley from a single node to 50+ nodes to support the real-time analytics of billions of line items.
+          - Enabled real-time search by reducing transaction locking time from minutes to within 10 seconds through a direct RAM index searcher.
+
+Education:
+  - Course: Computer Science, M.S.
+    Place: University of San Francisco
+
+  - Course:  Mathematics and Applied Mathematics, B.S.
+    Place: Peking University
