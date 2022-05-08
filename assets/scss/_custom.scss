@@ -28,7 +28,8 @@ body {
   text-transform: none;
 }
 .content__left::after {
-  content: '3 IEEE intl. Conference papers on Feature Extraction & Machine Learning, and a journal paper on Software Architecture.';
+  content: '3 IEEE intl. Conference papers on Feature Extraction & Machine Learning, and a journal paper on Software Architecture.      ...Rev.2022-04';
+  color: #4f4f4f;
 }
 .experience__header, .experience__company, .experience__position {
   text-transform: none;
@@ -66,7 +67,7 @@ body {
   position: relative;
   left: 56rem;
   margin-top: -86px;
-  margin-bottom: -10px;
+  margin-bottom: -16px;
 }
 #profile .section__heading {
   display: none;
@@ -111,7 +112,7 @@ a {
 }
 
 .section {
-    margin-bottom: 1rem;
+    margin-bottom: 0;
 }
 
 .experience__badges {
