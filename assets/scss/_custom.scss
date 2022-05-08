@@ -152,6 +152,16 @@ a {
   font-style: italic;
 }
 
+.resume-contact span.mask{
+  opacity: 1;
+  background-image: url('/assets/images/number.png') ;
+  display: inline-block;
+  width: 9rem;
+}
+.resume-contact span.mask a{
+  opacity: 0;
+}
+
 @media only screen {
   html {
     background-color: #fff;
@@ -166,6 +176,14 @@ a {
   li.print {
     display: none;
   }
+
+  .resume-contact span.mask{
+    background-image: none !important;
+  }
+  .resume-contact span.mask a{
+    opacity: 1;
+  }
+
 }
 @media screen and (min-width: 60rem) {
   .content {
@@ -198,6 +216,19 @@ a {
     svg:not(:root).svg-inline--fa{
       color: #fff !important;
 
+    }
+
+    .references__name {
+      font-weight: 300;
+      font-size: 1em !important;
+      font-style: italic;
+    }
+
+    .resume-contact span.mask{
+      opacity: 1;
+      background-image: url('/assets/images/number.png') !important;
+      display: inline-block;
+      width: 10rem;
     }
 
     .section-publications & {
