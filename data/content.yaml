@@ -6,54 +6,64 @@ BasicInfo:
 Profile: |
           <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
             <ul class="list-unstyled mb-0">
-              <li class="mb-2">
-                <svg class="svg-inline--fa fa-at fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="at-solid" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"></path></svg><!-- <i class="fas fa-at fa-fw fa-lg mr-2"></i> --><a class="resume-link" href="mailto:#">xi.zhang.career # gmail</a></li>
-              <li class="mb-2">
-                <svg class="svg-inline--fa fa-link fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="link-solid" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg><!-- <i class="fas fa-blog fa-fw fa-lg mr-2"></i> --><a class="resume-link" href="https://www.zhangxi.co/">www.zhangxi.co</a></li>
-              <li class="mb-2 screen">
-                <svg class="svg-inline--fa fa-file-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="file-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="">
-                <path fill="currentColor" d="M320 0H64C37.5 0 16 21.5 16 48v416C16 490.5 37.5 512 64 512h256c26.5 0 48-21.5 48-48v-416C368 21.5 346.5 0 320 0zM240 447.1C240 456.8 232.8 464 224 464H159.1C151.2 464 144 456.8 144 448S151.2 432 160 432h64C232.8 432 240 439.2 240 447.1zM304 384h-224V64h224V384z"></path></svg><!-- <i class="fas fa-file-alt fa-fw fa-lg mr-2"></i> --><span class="mask"><a class="resume-link" href="/assets/XiZhang.pdf">View in PDF</a></span></li>
               <li class="mb-0">
-                <svg class="svg-inline--fa fa-map-marker-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg><!-- <i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i> -->Greater New York</li>
+                <svg class="hide svg-inline--fa fa-map-marker-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg><!-- <i class="fas fa-map-marker-alt fa-fw fa-lg mr-2"></i> -->Greater New York</li>
+              <li class="mb-2">
+                <svg class="hide svg-inline--fa fa-at fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="at-solid" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+                <path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"></path></svg>
+                <!-- <i class="fas fa-at fa-fw fa-lg mr-2"></i> -->
+                <a class="resume-link" href="mailto:#">xi.zhang.career@gmail</a></li>
+              <li class="mb-2 hide">
+                <svg class="hide svg-inline--fa fa-link fa-w-14 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="link-solid" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg="">
+                <path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg>
+                <!-- <i class="fas fa-blog fa-fw fa-lg mr-2"></i> -->
+                <a class="resume-link" href="https://www.zhangxi.co/">www.zhangxi.co</a></li>
+              <li class="mb-2 screen hide">
+                <svg class="hide svg-inline--fa fa-file-alt fa-w-12 fa-fw fa-lg mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="file-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="">
+                <path fill="currentColor" d="M320 0H64C37.5 0 16 21.5 16 48v416C16 490.5 37.5 512 64 512h256c26.5 0 48-21.5 48-48v-416C368 21.5 346.5 0 320 0zM240 447.1C240 456.8 232.8 464 224 464H159.1C151.2 464 144 456.8 144 448S151.2 432 160 432h64C232.8 432 240 439.2 240 447.1zM304 384h-224V64h224V384z"></path></svg>
+                <!-- <i class="fas fa-file-alt fa-fw fa-lg mr-2"></i> --><span class="mask">
+                <a class="resume-link" href="/assets/XiZhang.pdf">View in PDF</a></span></li>
+
             </ul>
           </div>
 
 Experience:
   - Employer: Inpensa Inc.
-    Place: Edison, NJ
+    Place: SaaS Enterprise Business Case Management and Portfolio Analytics Platform
     Positions:
       - Title: V.P. of Engineering
         Date: 2018 - 2021
         Details:
-          - Launched the OnDemand platform with Predictable Analytics in 3 months, bringing enterprise customers domain knowledge to SMB customers, which attracted market attention, and boosted sales pipeline by 50%.
-          - Drove the company agile methodology evolution, adopting cloud-based CI/CD pipeline in a quarter, increased productivity by 35%, and reduced cycle time by 50% to two weeks.
-          - Incorporated the Well-Architected Framework into the cloud operation process, archiving a 35% reduction in SaaS operating costs with 10% overall performance improvement.
-          - Established and led a Security Work Group and achieved 100% security compliance for customers from various industries, including the heavily regulated Banking industry.
+          - Launched the OnDemand platform with Predictable Analytics in three months, bringing enterprise customers domain knowledge to small and midsize business customers, which attracted market attention, and boosted sales pipeline by 50%.
           - Successfully delivered end-to-end solutions for 10+ large customers across major industries, involving crossfunction business patterners and integrating with various enterprise systems.
-          - Worked closely with other leadership team members to lead new product line developments and new market segment expansion, which significantly increased the company’s valuation.
+          - Established and led a Security Work Group and achieved 100% security compliance for customers from various industries, including the heavily regulated Banking industry.
+          - Drove the company-wide agile methodology evolution, adopting cloud-based CI/CD pipeline in three months, increased productivity by 35%, and reduced cycle time by 50% to two weeks.
+          - Incorporated the Well-Architected Framework into the cloud operation process, archiving a 35% reduction in SaaS operating costs with 10% overall performance improvement.
 
-      - Title: Architect / Director of R&D
+      - Title: Director of R&D / Architect
         Date: 2012 - 2018
         Details:
-          - Architected the innovative 3-tier distributed platform with configuration-driven taxonomy and workflow framework, enabling entirely different appearances and workflows on the same codebase yet configurable by non-technical analysts.
+          - Successfully launched five SaaS products in three years, made sales to five Fortune 500 enterprise customers, and attracting dozens of potential clients.
           - Hired 30+ resources, and wove them into teams, empowered them to deliver high-quality products within a limited time frame.
+          - Architected the innovative 3-tier distributed platform with configuration-driven taxonomy and workflow framework, enabling entirely different appearances and workflows on the same codebase yet configurable by non-technical analysts.
           - Led the transition of the service tier to micro-services and server-less architecture, increased throughput by 60%, enabling monthly product release cycles.
           - Demonstrated technical flexibility during pre-sale client engagement by implementing a critical feature to meet business needs within 24 hours, resulting in signing the first deal with a Fortune 100 company.
-          - Successfully launched five SaaS products in three years, made sales to five Fortune 500 enterprise customers, and attracting dozens of potential clients.
 
   - Employer: Cisco Systems
-    Place: San Jose, CA
+    Place: Cisco Advanced Services - Real-Time Enterprise Business Intelligence Analysis and Visualization Platform
     Positions:
-      - Title: Software Engineer / Tech Lead
+      - Title: Tech Lead / Software Engineer
         Date: 2009 - 2011
         Details:
           - Led the design and implementation of the search based BI Services powered by a SOLR cluster, enabling enterprise customers to filter and search through historical data and generate real-time visualization reports based on result sets.
-          - As a pioneer in implementing Big Data for Enterprise BI Platform, scaled one of the earliest SOLAR clusters in Silicon Valley from a single node to 50+ nodes to support the real-time analytics of billions of line items.
-          - Enabled real-time search by reducing transaction locking time from minutes to within 10 seconds through a direct RAM index searcher.
+          - As a pioneer in implementing Big Data for Enterprise BI Platform, scaled one of the earliest SOLR clusters in Silicon Valley from a single node to 50+ nodes to support the real-time analytics of billions of line items.
 
 Education:
   - Course: Computer Science, M.S.
+    Date: 2009
     Place: University of San Francisco
 
-  - Course:  Mathematics and Applied Mathematics, B.S.
+  - Course: Mathematics and Applied Mathematics, B.S.
+    Date: 2006
     Place: Peking University
+    Details: 3 IEEE intl. Conference papers on Feature Extraction & Machine Learning, and a journal paper on Software Architecture.
