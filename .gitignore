@@ -1,5 +1,6 @@
-/.idea
 .DS_Store
+/.idea
+/.vscode
 /themes
 /resources
 /.hugo_build.lock
